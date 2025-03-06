@@ -99,6 +99,7 @@ jobs:
         platform:
           - arm64
           - arm/v7
+          - riscv64
 
     permissions:
       contents: read
